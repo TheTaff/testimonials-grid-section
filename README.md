@@ -1,4 +1,5 @@
-Frontend Mentor - Решение секции с сеткой отзывов
+Frontend Mentor - Решение секции с сеткой отзывов 
+
 Это решение задачи Testimonials grid section challenge на Frontend Mentor. Проекты Frontend Mentor помогают оттачивать навыки верстки, создавая реалистичные интерфейсы.
 
 Обзор
@@ -12,6 +13,7 @@ Frontend Mentor - Решение секции с сеткой отзывов
 
 Ссылки
 URL решения: https://github.com/TheTaff/testimonials-grid-section
+
 Живой сайт: https://thetaff.github.io/testimonials-grid-section/
 
 Мой процесс
